@@ -5,7 +5,7 @@ import sys
 # Windows terminal encoding fix
 sys.stdout.reconfigure(encoding='utf-8')
 
-GEMINI_API_KEY = "A.........."
+GEMINI_API_KEY = ".........."
 
 def test_fixed_logic():
     print("--- YENI MANTIK TESTI ---")
