@@ -5,7 +5,7 @@ import sys
 # Windows terminal encoding fix
 sys.stdout.reconfigure(encoding='utf-8')
 
-GEMINI_API_KEY = "AIzaSyAVWtGOdaHjtJCdjnWZbviXjPzs-SdYi7w"
+GEMINI_API_KEY = "A.........."
 
 def test_fixed_logic():
     print("--- YENI MANTIK TESTI ---")
@@ -38,3 +38,4 @@ def test_fixed_logic():
     
 if __name__ == "__main__":
     test_fixed_logic()
+
