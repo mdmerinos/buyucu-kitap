@@ -35,12 +35,9 @@ Sadece bir kitap arama motoru değil; kitaplarla konuşabileceğiniz interaktif 
 ### 💬 5. Kitapla Sohbet (Büyücü Modu)
 - Kitap hakkında merak ettiklerinizi sorun, yapay zeka o kitabın evrenine hakim bir "Büyücü" gibi cevaplasın.
 
-### ⭐ 6. Hazine Sandığı (Favoriler)
-- Beğendiğiniz kitapları, özetleri ve kapaklarıyla birlikte dijital sandığınızda saklayın.
-
 ---
 
-## 🛠️ Kurulum ve Çalıştırma
+## 🛠️ Kurulum ve Yapılandırma
 
 Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
 
