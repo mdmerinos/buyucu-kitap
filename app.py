@@ -20,11 +20,11 @@ if "GEMINI_API_KEY" in st.secrets:
 else:
     # 2. Eğer Secrets yoksa (Bilgisayarında test ediyorsan) burayı kullan
     # GitHub'a yüklemeden önce burayı tekrar boşaltmayı unutma!
-    api_key = "BURAYA_KENDI_UZUN_API_ANAHTARINI_YAZABILIRSIN" 
+    api_key = "" 
 
 # --- GEMINI BAĞLANTISI ---
 gemini_aktif = False
-if api_key and api_key != "BURAYA_KENDI_UZUN_API_ANAHTARINI_YAZABILIRSIN":
+if api_key and api_key != "":
     try:
         genai.configure(api_key=api_key)
         gemini_aktif = True
